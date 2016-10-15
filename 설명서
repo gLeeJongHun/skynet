@@ -1,0 +1,5 @@
+sql추가방법->리소스 안에 mapper에 이름_SQL.xml형태로 넣으면 자동인식
+		  폴더 안에 있어도 상관없음
+		  
+서블릿 컨텍스트 ->web-inf안에 action-servlet.xml
+		  
